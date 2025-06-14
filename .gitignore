@@ -1,0 +1,23 @@
+/data
+/my-env
+# Ignore the virtual environment directory
+/.venv
+# Ignore Python bytecode files
+*.pyc
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# Ignore log files
+*.log
+# Ignore coverage reports
+*.coverage
+# Ignore cache directories
+__pycache__/
+# Ignore environment variable files
+.env
+# Ignore IDE specific files
+.vscode/
+# Ignore system files
+.DS_Store
+# Ignore temporary files
+*.tmp
+# Ignore backup files

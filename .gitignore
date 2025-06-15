@@ -21,3 +21,4 @@ __pycache__/
 # Ignore temporary files
 *.tmp
 # Ignore backup files
+!*.dvc
